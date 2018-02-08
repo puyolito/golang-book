@@ -18,3 +18,6 @@
 * chapter3-3 : Floating point
 
 ## Chapter 4
+
+* chapter4-1 : Declaration Variable
+* chapter4-2 : Declaration Variable & Get Input
